@@ -5,6 +5,7 @@ I am a data engineer from Poland.
 - 🌱 I’m currently learning pandas and tensorflow libraries
 - 🔭 Working on multiple frontend and backend project using Python and Nodejs
 
+<br><br>
 ## 📫 How to reach me ...
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastian-warszawa/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17002641/wwainkrk)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/wwainkrk/)<br>
 
